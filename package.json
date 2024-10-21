@@ -9,16 +9,42 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.13.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@microlink/react-json-view": "^1.23.1",
+    "@monaco-editor/react": "^4.6.0",
+    "@mui/icons-material": "^6.1.0",
+    "@mui/lab": "^6.0.0-beta.10",
+    "@mui/material": "^6.1.0",
+    "@mui/material-nextjs": "^6.1.0",
+    "@mui/x-data-grid": "^7.17.0",
+    "@tanstack/react-query": "^5.56.2",
+    "@types/pg": "^8.11.10",
+    "@zilliz/milvus2-sdk-node": "^2.4.9",
+    "ajv": "^8.17.1",
+    "fluent-json-schema": "^5.0.0",
+    "glob": "^11.0.0",
+    "lodash.pick": "^3.1.0",
+    "monaco-editor": "^0.52.0",
+    "next": "14.2.12",
+    "pg": "^8.13.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.12"
+    "uuid": "^10.0.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@tanstack/react-query-devtools": "^5.59.15",
+    "@types/lodash.pick": "^4.4.9",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/uuid": "^10.0.0",
+    "@types/wicg-file-system-access": "^2023.10.5",
     "eslint": "^8",
-    "eslint-config-next": "14.2.12"
+    "eslint-config-next": "14.2.12",
+    "monaco-editor-webpack-plugin": "^7.1.0",
+    "typescript": "^5",
+    "vite-plugin-monaco-editor": "^1.1.0"
   }
 }

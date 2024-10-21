@@ -1,0 +1,31 @@
+{
+    "configs": [
+        {
+            "name": "Nibbles",
+            "framework": "ostim",
+            "config": {
+                "ostimPackPath": "E:\\Skyrim\\mods\\MO2 Development\\mods\\Nibbles' animations for Ostim Standalone",
+                "slalPackPath": "D:\\animations\\nibbles\\SLAL NibblesAnims 5.81",
+                "authorName": "Nibbles",
+                "customPrefixes": []
+            }
+        },
+        {
+            "name": "Anubs",
+            "framework": "ostim",
+            "config": {
+                "ostimPackPath": "E:\\Skyrim\\mods\\MO2 Development\\mods\\Anub's animations for Ostim Standalone\\SKSE",
+                "slalPackPath": "D:\\animations\\anubs\\1537070476_AnubSLAL022023SSELLver\\00 Data",
+                "authorName": "Anubs",
+                "customPrefixes": []
+            }
+        },
+        {
+            "name": "FunBiz",
+            "framework": "sexlab",
+            "config": {
+                "slalPackPath": "D:\\animations\\funbiz\\FBSLALPACK v12.0SERev1\\07-HumanLover"
+            }
+        }
+    ]
+}

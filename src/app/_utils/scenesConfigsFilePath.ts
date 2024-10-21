@@ -1,0 +1,1 @@
+export const scenesConfigsFilePath = './src/app/api/scenes-configs/scenesPathsConfig.json'
